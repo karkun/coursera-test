@@ -107,4 +107,5 @@ p {
 	clear: both;
 	padding: 10px;
 	height: 100px;
+	overflow: hidden;
 }
