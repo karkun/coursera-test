@@ -10,7 +10,7 @@ body {
 h1{
 	margin: 20px;
 	text-align: center;
-	font-size: 175%;
+	font-size: 1.75em;
 }
 @media (min-width: 992px) {
 	.col-desk-4, .col-desk-6, .col-desk-12 {
@@ -68,7 +68,7 @@ h1{
 }
 .container .title1{
 	text-align:center;
-	font-size: 125%;
+	font-size: 1.25em;
 	background-color:#FFAAAF;
 	position: relative;
 	top:0px;
@@ -80,7 +80,7 @@ h1{
 }
 .container .title2{
 	text-align:center;
-	font-size: 125%;
+	font-size: 1.25em;
 	color: white;
 	background-color:#DD0000;
 	position: relative;
@@ -93,7 +93,7 @@ h1{
 }
 .container .title3{
 	text-align:center;
-	font-size: 125%;
+	font-size: 1.25em;
 	background-color:#FFFFAA;
 	position: relative;
 	top:0px;
